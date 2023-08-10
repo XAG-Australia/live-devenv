@@ -1,0 +1,165 @@
+2023-08-09T08:28:18+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:28:44+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:29:21+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:29:23+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/404.php(37): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:32:42+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:32:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:33:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:33:25+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:34:37+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T08:37:43+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-08-09T13:42:57+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "techup_footer_site_info" not found or invalid function name in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/et38f8a3y0m8/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/footer.php(32): do_action()
+#3 /home/et38f8a3y0m8/public_html/wp-includes/template.php(783): require_once('/home/et38f8a3y...')
+#4 /home/et38f8a3y0m8/public_html/wp-includes/template.php(718): load_template()
+#5 /home/et38f8a3y0m8/public_html/wp-includes/general-template.php(92): locate_template()
+#6 /home/et38f8a3y0m8/public_html/wp-content/themes/techup/full-width.php(42): get_footer()
+#7 /home/et38f8a3y0m8/public_html/wp-includes/template-loader.php(106): include('/home/et38f8a3y...')
+#8 /home/et38f8a3y0m8/public_html/wp-blog-header.php(19): require_once('/home/et38f8a3y...')
+#9 /home/et38f8a3y0m8/public_html/index.php(17): require('/home/et38f8a3y...')
+#10 {main}
+  thrown in /home/et38f8a3y0m8/public_html/wp-includes/class-wp-hook.php on line 308
+
