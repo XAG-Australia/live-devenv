@@ -31,4 +31,5 @@ deployment:
     /bin/cp wp-signup.php $DEPLOYPATH
     /bin/cp wp-trackback.php $DEPLOYPATH
     /bin/cp xmlrpc.php $DEPLOYPATH
+    /bin/cp ms-icon-70x70.png $DEPLOYPATH
     /bin/cp cpanel.yml $DEPLOYPATH
