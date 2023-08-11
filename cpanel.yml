@@ -1,0 +1,34 @@
+##### THIS ALLOWS US TO DEPLOY THE SITE FROM A GIT REPO ######
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/et38f8a3y0m8/public_html
+    - /bin/cp -R .git $DEPLOYPATH
+    - /bin/cp -R cgi-bin $DEPLOYPATH
+    - /bin/cp -R slidr-master $DEPLOYPATH
+    - /bin/cp -R wp-admin $DEPLOYPATH
+    - /bin/cp -R wp-content $DEPLOYPATH
+    - /bin/cp -R wp-includes $DEPLOYPATH
+    /bin/cp .gitattributes $DEPLOYPATH
+    /bin/cp .htaccess $DEPLOYPATH
+    /bin/cp error_log $DEPLOYPATH
+    /bin/cp favicon.ico $DEPLOYPATH
+    /bin/cp index.php $DEPLOYPATH
+    /bin/cp license.txt $DEPLOYPATH
+    /bin/cp php.ini $DEPLOYPATH
+    /bin/cp readme.html $DEPLOYPATH
+    /bin/cp README.md $DEPLOYPATH
+    /bin/cp wp-activate.php $DEPLOYPATH
+    /bin/cp wp-blog-header.php $DEPLOYPATH
+    /bin/cp wp-comments-post.php $DEPLOYPATH
+    /bin/cp wp-config.php $DEPLOYPATH
+    /bin/cp wp-config-sample.php $DEPLOYPATH
+    /bin/cp wp-cron.php $DEPLOYPATH
+    /bin/cp wp-links-opml.php $DEPLOYPATH
+    /bin/cp wp-load.php $DEPLOYPATH
+    /bin/cp wp-mail.php $DEPLOYPATH
+    /bin/cp wp-settings.php $DEPLOYPATH
+    /bin/cp wp-signup.php $DEPLOYPATH
+    /bin/cp wp-trackback.php $DEPLOYPATH
+    /bin/cp xmlrpc.php $DEPLOYPATH
+    /bin/cp cpanel.yml $DEPLOYPATH
