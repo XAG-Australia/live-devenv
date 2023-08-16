@@ -7,6 +7,10 @@
 # MEGA Menu END
 --------------------------------------------------------------*/
 
+.page-banner {
+  display: none !important;
+}
+
 .main-menu a {
   color: #23232395 !important;
     transition: all 0.5s ease-in-out;
