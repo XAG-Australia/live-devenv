@@ -42,5 +42,4 @@ if( ! function_exists( 'techup_footer_end' ) ):
 endif; 
 add_action( 'techup_footer', 'techup_footer_start', 5  );
 add_action( 'techup_footer', 'techup_footer_sidebar', 10  );
-add_action( 'techup_footer', 'techup_footer_site_info', 10  );
 add_action( 'techup_footer', 'techup_footer_end', 20 );
