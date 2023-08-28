@@ -24,7 +24,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
 	    <div class="foot-top" style="height: 400px; width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
-            <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding-left: 20px; padding-right: 20px; padding-top: 40px; padding-bottom: 40px;">
+            <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			
 			<!-- Footer Content -->
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
@@ -75,10 +75,10 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
 
             </div>
-            <div class="container-right" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
+            <div class="container-right" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			<h2>Useful Links</h2>
             </div>
-			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
+			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			<h2>Subscribe</h2>
             </div>
         	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 20px; padding-right: 20px;">
