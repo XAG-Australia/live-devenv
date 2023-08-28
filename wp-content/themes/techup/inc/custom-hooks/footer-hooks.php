@@ -85,27 +85,27 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             <ul class="list-unstyled g-mb-30 g-mb-0--md">
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">About Us</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">About Us</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Featured Products</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Featured Products</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Our Services</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Our Services</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Training</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Training</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Resources</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Resources</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Privacy Policy</a>
               </li>
             </ul>
           </div>
@@ -114,27 +114,27 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             <ul class="list-unstyled mb-0">
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">In The Media</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">In The Media</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Events</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Events</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Blog</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Blog</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Support</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Support</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Terms & Conditions</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Terms & Conditions</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Service Policy </a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important; font-family: 'Roboto', sans-serif !important;">Service Policy </a>
               </li>
             </ul>
           </div>
