@@ -23,9 +23,9 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-globals.css">
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/vendor/icon-awesome/css/font-awesome.min.css">
 
-	    <div class="foot-top" style="height: 400px; width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
+	    <div class="foot-top" style="height: 400px; width: 1280px; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
-            <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
+            <div class="container-left" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
 			
 			<!-- Footer Content -->
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
@@ -83,7 +83,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
 
             </div>
-            <div class="container-right" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
+            <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
 			<!-- Footer Content -->
 			<div style="width: 50% !important;">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
@@ -139,29 +139,17 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
               </li>
-              <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Freebies</a>
-              </li>
-              <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Pricing and Plans</a>
-              </li>
-              <li class="d-flex">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Careers</a>
-              </li>
             </ul>
           </div>
         </div>
       </div>
       <!-- End Footer Content -->
             </div>
-			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
+			<div class="container-subscribe" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
 			<!-- Footer Content -->
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
         <div class="g-mb-25">
-          <p  style="color: #666666 !important;">Subscribe to our newsletter and stay up to date with the latest news and deals! Aenean imperdiet nisi a dolor condimentum.</p>
+          <p  style="color: #666666 !important;">Subscribe to our newsletter and stay up to date with the latest news and deals!</p>
         </div>
 
         <form>
