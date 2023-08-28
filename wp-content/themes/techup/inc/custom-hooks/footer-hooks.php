@@ -20,7 +20,58 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	    <div class="foot-top" style="height: calc(50vh - 180px); width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
             <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
-			<h2>Contact Us</h2>
+			
+			<!-- Footer Content -->
+			<div class="col-lg-4 g-mb-50 g-mb-0--lg">
+        <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
+        <div class="g-mb-25">
+          <p>Let's get started, contact XAG Australia.</p>
+        </div>
+
+        <address class="g-mb-20">
+          <ul class="list-unstyled">
+            <li class="d-flex align-items-baseline g-mb-12">
+              <i class="fa fa-map-marker g-mr-10"></i>
+              <span>Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
+            </li>
+            <li class="d-flex align-items-baseline g-mb-12">
+              <i class="fa fa-phone g-mr-10"></i>
+              <span>Phone: +61 (2) 9168 7918</span>
+            </li>
+            <li class="d-flex align-items-baseline g-mb-12">
+              <i class="fa fa-envelope g-mr-10"></i>
+              <span>Email:
+                <a class="g-color-white-opacity-0_8" href="mailto:info@htmlstream.com">info@htmlstream.com</a>
+              </span>
+            </li>
+          </ul>
+        </address>
+
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+              <i class="fa fa-pinterest"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- End Footer Content -->
+
             </div>
             <div class="container-right" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
 			<h2>Useful Links</h2>
