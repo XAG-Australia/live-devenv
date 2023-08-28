@@ -159,7 +159,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </div>
 			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			<!-- Footer Content -->
-			<div class="col-lg-4">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
         <div class="g-mb-25">
           <p>Subscribe to our newsletter and stay up to date with the latest news and deals! Aenean imperdiet nisi a dolor condimentum.</p>
@@ -185,7 +184,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 			<ul>
                <li style="float: right;"><?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?></li>
 			</ul>
-            </div>
 	<?php }
 endif;
 
