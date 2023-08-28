@@ -76,7 +76,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
 
             </div>
-            <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
+            <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px !important;">
 			<!-- Footer Content -->
 			<div style="width: 100% !important;">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
