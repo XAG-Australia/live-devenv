@@ -45,8 +45,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </li>
             <li class="d-flex align-items-baseline g-mb-12">
               <i class="fa fa-envelope g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
-              <span>Email:
-                <a class="g-color-white-opacity-0_8" href="mailto: info@xagaustralia.com.au" style="font-size: 12px !important; color: #666666 !important;">info@xagaustralia.com.au</a>
+              <span style="font-size: 12px !important; color: #666666 !important;">Email: <a class="g-color-white-opacity-0_8" href="mailto: info@xagaustralia.com.au" style="font-size: 12px !important; color: #666666 !important;">info@xagaustralia.com.au</a>
               </span>
             </li>
           </ul>
