@@ -29,12 +29,12 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 			<!-- Footer Content -->
 			<div class="col-lg-4 g-mb-50 g-mb-0--lg">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
-        <div class="g-mb-25">
+        <div class="g-mb-25" style="font-size: 16px; color:#666666;">
           <p>Let's get started, contact XAG Australia.</p>
         </div>
 
         <address class="g-mb-20">
-          <ul class="list-unstyled">
+          <ul class="list-unstyled" style="font-size: 12px; color: #666666;">
             <li class="d-flex align-items-baseline g-mb-12">
               <i class="fa fa-map-marker g-mr-10"></i>
               <span>Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
