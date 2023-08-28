@@ -17,6 +17,7 @@ if( ! function_exists( 'techup_footer_start' ) ):
 endif; 
 if( ! function_exists( 'techup_footer_sidebar' ) ):
 	function techup_footer_sidebar(){ ?>
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/vendor/bootstrap/bootstrap.min.css">
 	    <div class="foot-top" style="height: calc(50vh - 180px); width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
             <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
@@ -41,7 +42,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             <li class="d-flex align-items-baseline g-mb-12">
               <i class="fa fa-envelope g-mr-10"></i>
               <span>Email:
-                <a class="g-color-white-opacity-0_8" href="mailto:info@htmlstream.com">info@htmlstream.com</a>
+                <a class="g-color-white-opacity-0_8" href="mailto: info@xagaustralia.com.au">info@xagaustralia.com.au</a>
               </span>
             </li>
           </ul>
