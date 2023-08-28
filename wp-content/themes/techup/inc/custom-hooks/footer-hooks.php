@@ -27,7 +27,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding-left: 20px; padding-right: 20px; padding-top: 40px; padding-bottom: 40px;">
 			
 			<!-- Footer Content -->
-			<div class="col-lg-4 g-mb-50 g-mb-0--lg">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
         <div class="g-mb-25" >
           <p style="font-size: 16px; color:#666666;">Let's get started, contact XAG Australia.</p>
@@ -73,7 +72,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </a>
           </li>
         </ul>
-      </div>
       <!-- End Footer Content -->
 
             </div>
