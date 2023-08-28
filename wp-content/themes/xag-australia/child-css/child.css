@@ -6,8 +6,9 @@
 /*--------------------------------------------------------------
 # MEGA Menu END
 --------------------------------------------------------------*/
-.g-color-white-opacity-0_6.g-color-primary--hover:hover, .g-bg-primary--hover:hover {
+.g-color-white-opacity-0_6.g-color-primary--hover:hover, .u-icon-v3.u-icon-size--xs.g-bg-white-opacity-0_1.g-bg-primary--hover.g-color-white-opacity-0_8.rounded:hover {
   color: #c01920 !important;
+  background-color: #c01920 !important;
 }
 
 .page-banner {
