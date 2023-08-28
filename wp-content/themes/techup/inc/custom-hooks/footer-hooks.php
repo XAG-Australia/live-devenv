@@ -76,7 +76,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	<ul class="list-inline mb-0">
 		  <li class="list-inline-item g-mx-5">
             <a class="" href="#!">
-              <i class="" style="max-height: 40px !important;"><img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 40px !important;"></i>
+              <i class="" style="max-height: 50px !important; margin-left: -5px; margin-top: 20px;"><img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 50px !important;"></i>
             </a>
           </li>
         </ul>
