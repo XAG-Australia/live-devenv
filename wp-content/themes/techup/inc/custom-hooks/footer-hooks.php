@@ -181,9 +181,9 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
             </div>
         	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
-			<ul>
-               <li style="float: right;"><?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?></li>
-			</ul>
+			
+			<?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?>
+	</div>
 	<?php }
 endif;
 
