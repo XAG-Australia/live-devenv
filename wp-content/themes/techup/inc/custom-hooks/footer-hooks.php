@@ -35,18 +35,18 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
         <address class="g-mb-20">
           <ul class="list-unstyled">
-            <li class="d-flex align-items-baseline g-mb-12" style="font-size: 12px !important; color: #666666 !important;">
-              <i class="fa fa-map-marker g-mr-10"></i>
-              <span>Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
+            <li class="d-flex align-items-baseline g-mb-12" >
+              <i class="fa fa-map-marker g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
+              <span style="font-size: 12px !important; color: #666666 !important;">Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
             </li>
             <li class="d-flex align-items-baseline g-mb-12">
-              <i class="fa fa-phone g-mr-10"></i>
-              <span>Phone: +61 (2) 9168 7918</span>
+              <i class="fa fa-phone g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
+              <span style="font-size: 12px !important; color: #666666 !important;">Phone: +61 (2) 9168 7918</span>
             </li>
             <li class="d-flex align-items-baseline g-mb-12">
-              <i class="fa fa-envelope g-mr-10"></i>
+              <i class="fa fa-envelope g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
               <span>Email:
-                <a class="g-color-white-opacity-0_8" href="mailto: info@xagaustralia.com.au">info@xagaustralia.com.au</a>
+                <a class="g-color-white-opacity-0_8" href="mailto: info@xagaustralia.com.au" style="font-size: 12px !important; color: #666666 !important;">info@xagaustralia.com.au</a>
               </span>
             </li>
           </ul>
