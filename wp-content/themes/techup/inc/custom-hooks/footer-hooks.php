@@ -85,7 +85,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </div>
             <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
 			<!-- Footer Content -->
-			<div style="width: 55% !important;">
+			<div style="width: 100% !important;">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
         <div class="row">
           <div class="col-sm-6" style="max-width: 100% !important; padding: 0px;">
@@ -96,19 +96,19 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Our Products</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Our Services</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Terms</a>
-              </li>
-              <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Training</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Resources</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
@@ -121,27 +121,27 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             <ul class="list-unstyled mb-0">
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">In The Media</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Events</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Blog</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Community</a>
-              </li>
-              <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Forums</a>
-              </li>
-              <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Support</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Terms & Conditions</a>
               </li>
 			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Service Policy </a>
               </li>
             </ul>
           </div>
