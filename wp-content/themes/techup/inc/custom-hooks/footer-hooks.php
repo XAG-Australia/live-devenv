@@ -25,7 +25,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
 	    <div class="foot-top" style="height: 400px; width: 1280px; overflow: hidden; z-index: 9; padding: 0px !important; margin-left: auto; margin-right: auto;">
                 
-            <div class="container-left" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
+            <div class="container-left" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
 			
 			<!-- Footer Content -->
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
@@ -76,7 +76,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
 
             </div>
-            <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
+            <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
 			<!-- Footer Content -->
 			<div style="width: 100% !important;">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
@@ -142,7 +142,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       </div>
       <!-- End Footer Content -->
             </div>
-			<div class="container-subscribe" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
+			<div class="container-subscribe" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
 			<!-- Footer Content -->
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
         <div class="g-mb-25">
