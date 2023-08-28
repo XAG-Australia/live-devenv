@@ -172,9 +172,9 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       </div>
       <!-- End Footer Content -->
             </div>
-        	<div class="col-sm-12" style="width: 100%; text-align: right; height: 40px; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
+        	<div class="col-sm-12" style="width: 100%; text-align: right; height: 40px; font-size: 12px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
 			
-			<?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?> <?php echo '<img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 40px !important; float: right; margin-left: 50px; margin-top: -20px;">' ?>
+			<?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?> <?php echo '<img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 40px !important; float: right; margin-left: 50px; margin-bottom: 20px;">' ?>
 	</div>
 	<?php }
 endif;
