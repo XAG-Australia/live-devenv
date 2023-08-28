@@ -96,7 +96,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
-                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Our Products</a>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Featured Products</a>
               </li>
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
