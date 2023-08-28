@@ -158,7 +158,28 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
       <!-- End Footer Content -->
             </div>
 			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
-			<h2>Subscribe</h2>
+			<!-- Footer Content -->
+			<div class="col-lg-4">
+        <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
+        <div class="g-mb-25">
+          <p>Subscribe to our newsletter and stay up to date with the latest news and deals! Aenean imperdiet nisi a dolor condimentum.</p>
+        </div>
+
+        <form>
+          <div class="row">
+            <div class="col-md-8 col-lg-12">
+              <div class="form-group g-mb-20">
+                <input class="form-control g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_1 g-rounded-50 g-px-20 g-py-12" type="email" placeholder="Your Email">
+              </div>
+            </div>
+
+            <div class="col-md-4 col-lg-12">
+              <button class="btn u-btn-primary btn-block g-font-size-12 text-uppercase g-font-weight-600 g-rounded-50 g-py-15 g-px-35" type="submit" role="button">View our best offers</button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <!-- End Footer Content -->
             </div>
         	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
 			<ul>
