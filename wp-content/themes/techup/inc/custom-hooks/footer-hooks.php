@@ -18,6 +18,10 @@ endif;
 if( ! function_exists( 'techup_footer_sidebar' ) ):
 	function techup_footer_sidebar(){ ?>
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/vendor/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-core.css">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-components.css">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-globals.css">
+
 	    <div class="foot-top" style="height: calc(50vh - 180px); width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
             <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 20px;">
