@@ -11,7 +11,7 @@ if( ! function_exists( 'techup_footer_start' ) ):
 	function techup_footer_start(){
 		$footer_sticky = get_theme_mod( 'techup_footer_sticky_opt', true ); ?>
 		
-		    <footer class="footer footer-one" id="foot-wdgt" style="padding: 0px !important; height: calc(50vh - 180px) !important; ">
+		    <footer class="footer footer-one" id="foot-wdgt" style="padding: 0px !important; 400px !important; ">
 
 <?php }
 endif; 
@@ -22,7 +22,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-components.css">
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-globals.css">
 
-	    <div class="foot-top" style="height: 600px; width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
+	    <div class="foot-top" style="height: 400px; width: 100vw; overflow: hidden; z-index: 9; padding: 0px !important;">
                 
             <div class="container-left" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding-left: 20px; padding-right: 20px; padding-top: 40px; padding-bottom: 40px;">
 			
