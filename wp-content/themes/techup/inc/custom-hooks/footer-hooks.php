@@ -85,10 +85,10 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </div>
             <div class="container-right" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px;">
 			<!-- Footer Content -->
-			<div style="width: 50% !important;">
+			<div style="width: 55% !important;">
         <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
         <div class="row">
-          <div class="col-sm-6">
+          <div class="col-sm-6" style="max-width: 100% !important; padding: 0px;">
             <ul class="list-unstyled g-mb-30 g-mb-0--md">
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
@@ -106,10 +106,18 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
               </li>
+			  <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
+              </li>
+			  <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Privacy Policy</a>
+              </li>
             </ul>
           </div>
 
-          <div style="width: 50% !important;">
+          <div style="width: 45% !important; padding: 0px;">
             <ul class="list-unstyled mb-0">
               <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
@@ -124,6 +132,14 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Forums</a>
               </li>
               <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
+              </li>
+			  <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
+              </li>
+			  <li class="d-flex g-mb-12">
                 <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!" style="color: #666666 !important;">Advertise</a>
               </li>
