@@ -11,7 +11,7 @@ if( ! function_exists( 'techup_footer_start' ) ):
 	function techup_footer_start(){
 		$footer_sticky = get_theme_mod( 'techup_footer_sticky_opt', true ); ?>
 		
-		    <footer class="footer footer-one" id="foot-wdgt" style="padding: 0px !important; 400px !important; ">
+		    <footer class="footer footer-one" id="foot-wdgt" style="padding: 0px !important; height: 400px !important; ">
 
 <?php }
 endif; 
