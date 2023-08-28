@@ -21,8 +21,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-core.css">
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-components.css">
 	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-globals.css">
-	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/vendor/icon-awesome/css/font-awesome.min.css">
-
 	    <div class="foot-top" style="height: 400px; width: 1280px; overflow: hidden; z-index: 9; padding: 0px !important; margin-left: auto; margin-right: auto;">
                 
             <div class="container-left" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
