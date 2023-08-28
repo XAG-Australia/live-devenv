@@ -74,7 +74,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
           </li>
 		  <li class="list-inline-item g-mx-5">
             <a class="" href="#!">
-              <i class=""><img src="/media/know-your-drone-safety-advocate-colour.jpg" height="40px"></i>
+              <i class="" style="max-height: 40px !important;"><img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 40px !important;"></i>
             </a>
           </li>
         </ul>
