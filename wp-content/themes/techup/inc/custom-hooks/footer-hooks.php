@@ -37,7 +37,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
           <ul class="list-unstyled">
             <li class="d-flex align-items-baseline g-mb-12" >
               <i class="fa fa-map-marker g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
-              <span style="font-size: 12px !important; color: #666666 !important;">Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
+              <span style="font-size: 12px !important; color: #666666 !important;">Address: Unit 5, 11 Jullian Close, Banksmeadow, NSW 2019</span>
             </li>
             <li class="d-flex align-items-baseline g-mb-12">
               <i class="fa fa-phone g-mr-10" style="font-size: 12px !important; color: #666666 !important;"></i>
@@ -72,6 +72,11 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
               <i class="fa fa-instagram"></i>
             </a>
           </li>
+		  <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+              <i class=""></i>
+            </a>
+          </li>
         </ul>
       <!-- End Footer Content -->
 
@@ -82,8 +87,11 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			<h2>Subscribe</h2>
             </div>
-        	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 20px; padding-right: 20px;">
-                <?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2023' ?>
+        	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
+			<ul>
+               <li><?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2016 - 2023 All Rights Reserved' ?></li>
+			   <li><img src="/media/know-your-drone-safety-advocate-colour.jpg"></li>
+			</ul>
             </div>
 	<?php }
 endif;
