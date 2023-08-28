@@ -84,7 +84,78 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
             </div>
             <div class="container-right" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
-			<h2>Useful Links</h2>
+			<!-- Footer Content -->
+			<div class="col-lg-4 g-mb-30 g-mb-0--lg">
+        <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
+        <div class="row">
+          <div class="col-sm-6">
+            <ul class="list-unstyled g-mb-30 g-mb-0--md">
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">About Us</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Our Services</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Terms</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Privacy Policy</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Licenses</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Help Center</a>
+              </li>
+              <li class="d-flex">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">FAQ</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-sm-6">
+            <ul class="list-unstyled mb-0">
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Blog</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Community</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Forums</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Advertise</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Freebies</a>
+              </li>
+              <li class="d-flex g-mb-12">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Pricing and Plans</a>
+              </li>
+              <li class="d-flex">
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Careers</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- End Footer Content -->
             </div>
 			<div class="container-subscribe" style="float: left; width: 33.33vw; height: 90%; position: relative; z-index: 9999; padding: 3%;">
 			<h2>Subscribe</h2>
