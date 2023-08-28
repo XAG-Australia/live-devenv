@@ -23,6 +23,9 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-core.css">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-components.css">
+	<link rel="stylesheet" href="https://htmlstream.com/preview/unify-v2.6/assets/css/unify-globals.css">
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
