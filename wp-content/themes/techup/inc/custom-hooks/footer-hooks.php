@@ -72,6 +72,8 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
               <i class="fa fa-instagram"></i>
             </a>
           </li>
+	</ul>
+	<ul class="list-inline mb-0">
 		  <li class="list-inline-item g-mx-5">
             <a class="" href="#!">
               <i class="" style="max-height: 40px !important;"><img src="/media/know-your-drone-safety-advocate-colour.jpg" style="max-height: 40px !important;"></i>
