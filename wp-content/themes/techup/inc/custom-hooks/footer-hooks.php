@@ -91,31 +91,31 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
           <div class="col-sm-6">
             <ul class="list-unstyled g-mb-30 g-mb-0--md">
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">About Us</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Our Services</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Terms</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Privacy Policy</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Licenses</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Help Center</a>
               </li>
               <li class="d-flex">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">FAQ</a>
               </li>
             </ul>
@@ -124,31 +124,31 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
           <div style="width: 50% !important;">
             <ul class="list-unstyled mb-0">
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Blog</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Community</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Forums</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Advertise</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Freebies</a>
               </li>
               <li class="d-flex g-mb-12">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Pricing and Plans</a>
               </li>
               <li class="d-flex">
-                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8" style="color: #c01920 !important;"></i>
                 <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#!">Careers</a>
               </li>
             </ul>
