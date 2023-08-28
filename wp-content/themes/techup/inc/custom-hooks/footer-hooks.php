@@ -73,8 +73,8 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
             </a>
           </li>
 		  <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
-              <i class=""></i>
+            <a class="" href="#!">
+              <i class=""><img src="/media/know-your-drone-safety-advocate-colour.jpg" height="40px"></i>
             </a>
           </li>
         </ul>
@@ -90,7 +90,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
         	<div class="col-sm-12" style="width: 100%; text-align: right; height: 10%; font-size: 12px; line-height: 28px; bottom: 0px; float: left; text-transform: uppercase; font-family: 'Roboto Condensed', sans-serif; letter-spacing: 2px; font-weight: 400; text-shadow: none !important; padding-left: 50px; padding-right: 50px;">
 			<ul>
                <li style="float: left;"><?php echo '©' ?> <?php bloginfo( 'name' ); ?> <?php echo '2016 - 2023 All Rights Reserved' ?></li>
-			   <li style="float: left; height: 40px;"><img src="/media/know-your-drone-safety-advocate-colour.jpg" height="40px"></li>
+			   <li style="float: left; height: 40px;"></li>
 			</ul>
             </div>
 	<?php }
