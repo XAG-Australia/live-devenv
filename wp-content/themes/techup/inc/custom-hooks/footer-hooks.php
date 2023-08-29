@@ -48,22 +48,22 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
         <ul class="list-inline mb-0">
           <li class="list-inline-item">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="padding: 10px;">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="padding: 10px;">
               <i class="fa fa-pinterest"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="padding: 10px;">
               <i class="fa fa-facebook"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!">
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="padding: 10px;">
               <i class="fa fa-instagram"></i>
             </a>
           </li>
