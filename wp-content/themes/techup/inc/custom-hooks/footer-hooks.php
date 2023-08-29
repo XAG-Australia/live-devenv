@@ -49,8 +49,8 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
         <ul class="list-inline mb-0">
           <li class="list-inline-item">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="width: 3.92857rem; height: 3.92857rem;font-size: 1.57143rem;">
-              <i class="fa fa-twitter"></i>
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
+              <i class="fa fa-twitter" style="width: 3.92857rem; height: 3.92857rem;font-size: 1.57143rem;"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
