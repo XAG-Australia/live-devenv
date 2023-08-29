@@ -24,6 +24,8 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 	<link href="https://xag-au.com/css/unify-core.css" rel="stylesheet">
+	<link href="https://xag-au.com/css/unify-globals.css" rel="stylesheet">
+	<link href="https://xag-au.com/css/unify-components.css" rel="stylesheet">
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
