@@ -19,7 +19,6 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 	function techup_footer_sidebar(){ ?>
   <link href="https://xag-au.com/css/unify-globals.css" rel="stylesheet">
   <link href="https://xag-au.com/css/unify-core.css" rel="stylesheet">
-  <link href="https://xag-au.com/css/unify-components.css" rel="stylesheet">
 	    <div class="foot-top" style="height: 400px; width: 1280px; overflow: hidden; z-index: 9; padding: 0px !important; margin-left: auto; margin-right: auto;">
                 
             <div class="container-left" style="float: left; width: 33.33%; height: 400px; position: relative; z-index: 9999; padding: 50px; padding-top: 100px;">
@@ -50,7 +49,7 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
         <ul class="list-inline mb-0">
           <li class="list-inline-item">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="width: 3.92857rem; height: 3.92857rem;font-size: 1.57143rem;">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
