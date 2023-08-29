@@ -49,23 +49,23 @@ if( ! function_exists( 'techup_footer_sidebar' ) ):
 
         <ul class="list-inline mb-0">
           <li class="list-inline-item">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
-              <i class="fa fa-twitter" style="width: 3.92857rem; height: 3.92857rem;font-size: 1.57143rem;"></i>
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="display: inline-block; width: 40px; height: 40px;">
+              <i class="fa fa-twitter" style="font-size: 22px; width: 40px; height: 40px; line-height: 40px; text-align: center;"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
-              <i class="fa fa-pinterest"></i>
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="display: inline-block; width: 40px; height: 40px;">
+              <i class="fa fa-pinterest" style="font-size: 22px; width: 40px; height: 40px; line-height: 40px; text-align: center;"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
-              <i class="fa fa-facebook"></i>
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="display: inline-block; width: 40px; height: 40px;">
+              <i class="fa fa-facebook" style="font-size: 22px; width: 40px; height: 40px; line-height: 40px; text-align: center;"></i>
             </a>
           </li>
           <li class="list-inline-item g-mx-5">
-            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" >
-              <i class="fa fa-instagram"></i>
+            <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#!" style="display: inline-block; width: 40px; height: 40px;">
+              <i class="fa fa-instagram" style="font-size: 22px; width: 40px; height: 40px; line-height: 40px; text-align: center;"></i>
             </a>
           </li>
 	</ul>
