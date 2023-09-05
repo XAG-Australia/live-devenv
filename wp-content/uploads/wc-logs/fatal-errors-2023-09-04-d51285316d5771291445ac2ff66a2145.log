@@ -1,0 +1,49 @@
+2023-09-04T00:45:20+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / int in /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php:1519
+Stack trace:
+#0 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1481): ElementorPro\Modules\Woocommerce\Module->adjust_setting_for_product_renderer()
+#1 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1471): ElementorPro\Modules\Woocommerce\Module->parse_loop_query_args()
+#2 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1422): ElementorPro\Modules\Woocommerce\Module->loop_query()
+#3 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(310): ElementorPro\Modules\Woocommerce\Module->ElementorPro\Modules\Woocommerce\{closure}()
+#4 /home/fm90171te4tu/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#5 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/query-control/classes/elementor-post-query.php(147): apply_filters()
+#6 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/query-control/classes/elementor-post-query.php(49): ElementorPro\Modules\QueryControl\Classes\Elementor_Post_Query->get_query_args()
+#7 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/query-control/module.php(959): ElementorPro\Modules\QueryControl\Classes\Elementor_Post_Query->get_query()
+#8 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/posts/widgets/posts.php(72): ElementorPro\Modules\QueryControl\Module->get_query()
+#9 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/widgets/base.php(57): ElementorPro\Modules\Posts\Widgets\Posts->query_posts()
+#10 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/posts/skins/skin-base.php(856): ElementorPro\Modules\LoopBuilder\Widgets\Base->query_posts()
+#11 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/skins/skin-loop-base.php(89): ElementorPro\Modules\Posts\Skins\Skin_Base->render()
+#12 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/skins/skin-loop-product.php(36): ElementorPro\Modules\LoopBuilder\Skins\Skin_Loop_Base->render()
+#13 /home/fm90171te4tu/public_html/wp-content/plugins/elementor/includes/base/skin-base.php(79): ElementorPro\Modules\WooCommerce\Skins\Skin_Loop_Product->render()
+#14 /home/fm90171te4tu/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(607): Elementor\Skin_Base->render_by_mode()
+#15 /home/fm90171te4tu/public_html/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#16 /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(456): Elementor\Core\Base\Document->render_element()
+#17 /home/fm90171te4tu/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(445): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document->render_element()
+#18 [internal function]: Elementor\Widgets_Manager->ajax_render_widget()
+#19 /home/fm90171te4tu/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(175): call_user_func()
+#20 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(310): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#21 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#22 /home/fm90171te4tu/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#23 /home/fm90171te4tu/public_html/wp-admin/admin-ajax.php(188): do_action()
+#24 {main}
+  thrown in /home/fm90171te4tu/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1519
+
+2023-09-04T04:18:45+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php:407
+Stack trace:
+#0 /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php(407): array_merge()
+#1 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(310): Mega_Menu_Widget_Manager->ajax_save_grid_data()
+#2 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /home/fm90171te4tu/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/fm90171te4tu/public_html/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php on line 407
+
+2023-09-04T04:19:07+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php:407
+Stack trace:
+#0 /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php(407): array_merge()
+#1 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(310): Mega_Menu_Widget_Manager->ajax_save_grid_data()
+#2 /home/fm90171te4tu/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /home/fm90171te4tu/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/fm90171te4tu/public_html/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /home/fm90171te4tu/public_html/wp-content/plugins/megamenu/classes/widget-manager.class.php on line 407
+

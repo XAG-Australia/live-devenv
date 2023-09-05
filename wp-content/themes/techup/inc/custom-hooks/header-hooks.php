@@ -13,7 +13,7 @@ if( ! function_exists( 'techup_header_start' ) ):
 <header>
         <div class="header-two affix">
             <div class="container">
-                <div class="row" style="padding-top: 50px;">
+                <div class="row" style="padding-top: 20px;">
                     <div class="col-12">
                         <div class="menu-two">
 <?php }
